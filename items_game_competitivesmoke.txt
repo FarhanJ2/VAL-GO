@@ -1,0 +1,12 @@
+"items_game"
+{
+	"items"
+	{
+		"9090"
+		{
+			"name"		"weapon_gaysmoke"
+			"prefab"		"weapon_deagle_prefab"
+			"model_world"		"models/zool/biggaysmoke.mdl"
+		}
+	}
+}

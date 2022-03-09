@@ -1,0 +1,248 @@
+"SaveFile"
+{
+	"timestamp"		"2022-03-07 19:40:56"
+	"map"		"de_vertigo"
+	"round"		"2"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"2"
+	}
+	"History"
+	{
+		"NumConsecutiveCTLoses"		"3"
+		"LoserBonus"		"2400"
+		"LoserMostRecentTeam"		"CT"
+	}
+	"RoundResults"
+	{
+		"round1"		"5"
+		"round2"		"5"
+		"round3"		"0"
+		"round4"		"0"
+		"round5"		"0"
+		"round6"		"0"
+		"round7"		"0"
+		"round8"		"0"
+		"round9"		"0"
+		"round10"		"0"
+		"round11"		"0"
+		"round12"		"0"
+		"round13"		"0"
+		"round14"		"0"
+		"round15"		"0"
+		"round16"		"0"
+		"round17"		"0"
+		"round18"		"0"
+		"round19"		"0"
+		"round20"		"0"
+		"round21"		"0"
+		"round22"		"0"
+		"round23"		"0"
+		"round24"		"0"
+		"round25"		"0"
+		"round26"		"0"
+		"round27"		"0"
+		"round28"		"0"
+		"round29"		"0"
+		"round30"		"0"
+	}
+	"PlayersAliveT"
+	{
+		"round1"		"2"
+		"round2"		"4"
+		"round3"		"63"
+		"round4"		"63"
+		"round5"		"63"
+		"round6"		"63"
+		"round7"		"63"
+		"round8"		"63"
+		"round9"		"63"
+		"round10"		"63"
+		"round11"		"63"
+		"round12"		"63"
+		"round13"		"63"
+		"round14"		"63"
+		"round15"		"63"
+		"round16"		"63"
+		"round17"		"63"
+		"round18"		"63"
+		"round19"		"63"
+		"round20"		"63"
+		"round21"		"63"
+		"round22"		"63"
+		"round23"		"63"
+		"round24"		"63"
+		"round25"		"63"
+		"round26"		"63"
+		"round27"		"63"
+		"round28"		"63"
+		"round29"		"63"
+		"round30"		"63"
+	}
+	"PlayersAliveCT"
+	{
+		"round1"		"0"
+		"round2"		"0"
+		"round3"		"63"
+		"round4"		"63"
+		"round5"		"63"
+		"round6"		"63"
+		"round7"		"63"
+		"round8"		"63"
+		"round9"		"63"
+		"round10"		"63"
+		"round11"		"63"
+		"round12"		"63"
+		"round13"		"63"
+		"round14"		"63"
+		"round15"		"63"
+		"round16"		"63"
+		"round17"		"63"
+		"round18"		"63"
+		"round19"		"63"
+		"round20"		"63"
+		"round21"		"63"
+		"round22"		"63"
+		"round23"		"63"
+		"round24"		"63"
+		"round25"		"63"
+		"round26"		"63"
+		"round27"		"63"
+		"round28"		"63"
+		"round29"		"63"
+		"round30"		"63"
+	}
+	"Timeouts"
+	{
+		"team1"		"1"
+		"team2"		"1"
+		"technical"
+		{
+			"team1"		"0"
+			"team2"		"0"
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"1100334369"
+		{
+			"name"		"Combine"
+			"kills"		"6"
+			"assists"		"1"
+			"deaths"		"1"
+			"mvps"		"2"
+			"score"		"13"
+			"cash"		"12900"
+			"enemyKs"		"6"
+			"enemyHSs"		"2"
+			"enemy2Ks"		"0"
+			"enemy3Ks"		"2"
+			"enemy4Ks"		"0"
+			"enemy5Ks"		"0"
+			"enemyKAg"		"8"
+			"enemyDamageDealt"		"192"
+			"firstKs"		"1"
+			"clutchKs"		"0"
+			"kills_weapon_pistol"		"3"
+			"kills_weapon_sniper"		"0"
+			"roundsWon"		"2"
+			"helmet"		"0"
+			"armor"		"100"
+			"Items"
+			{
+				"item"		"weapon_knife_t"
+				"item"		"weapon_revolver"
+				"item"		"weapon_c4"
+				"item"		"weapon_sg556"
+			}
+			"MatchStats"
+			{
+				"Kills"
+				{
+					"round1"		"3"
+					"round2"		"3"
+				}
+				"Damage"
+				{
+					"round1"		"314"
+					"round2"		"192"
+				}
+				"EquipmentValue"
+				{
+					"round1"		"700"
+					"round2"		"4350"
+				}
+				"MoneySaved"
+				{
+					"round1"		"100"
+					"round2"		"11650"
+				}
+				"KillReward"
+				{
+					"round1"		"700"
+					"round2"		"900"
+				}
+				"LiveTime"
+				{
+					"round1"		"16"
+				}
+				"Deaths"
+				{
+					"round1"		"1"
+				}
+				"Assists"
+				{
+					"round1"		"1"
+				}
+				"HeadShotKills"
+				{
+					"round1"		"1"
+					"round2"		"1"
+				}
+				"CashEarned"
+				{
+					"round1"		"16000"
+					"round2"		"12900"
+				}
+				"Totals"
+				{
+					"Kills"		"6"
+					"Damage"		"506"
+					"EquipmentValue"		"5050"
+					"KillReward"		"1800"
+					"LiveTime"		"16"
+					"Deaths"		"1"
+					"Assists"		"1"
+					"HeadshotKills"		"2"
+					"Objective"		"0"
+					"CashEarned"		"5050"
+					"UtilityDamage"		"0"
+					"UtilityCount"		"0"
+					"UtilitySuccesses"		"0"
+					"UtilityEnemies"		"0"
+					"FlashCount"		"0"
+					"FlashSuccesses"		"0"
+					"EnemiesFlashed"		"0"
+					"1v1Count"		"0"
+					"1v1Wins"		"0"
+					"1v2Count"		"0"
+					"1v2Wins"		"0"
+					"EntryCount"		"1"
+					"EntryWins"		"1"
+				}
+			}
+			"WeaponPurchases"
+			{
+				"DefIndex_7"		"1"
+				"DefIndex_39"		"1"
+				"DefIndex_50"		"1"
+				"DefIndex_64"		"1"
+			}
+			"ItemCooldown"
+			{
+				"heavyassaultsuit"		"-2"
+			}
+		}
+	}
+}
