@@ -10,3 +10,5 @@ Go to Path
 C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
 Download and Extract .zip
 Install Shortcut with Custom Parameters: "C:\Program Files (x86)\Steam\steam.exe" -applaunch 730 -game VALORANT/csgo
+Optional: Change Launch Options by Adding -insecure for VAC FLAG prevention
+Flagging is different from a VAC Ban
