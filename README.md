@@ -2,7 +2,7 @@
 Work in Progress CS:GO Mod to make it like VALORANT 
 
 Prerequisites REQUIRED
-Counter-Strike: Global Offensive
+Counter-Strike: Global Offensive and
 At Least 6 Gigabytes of Space
 
 INSTALLATION:
