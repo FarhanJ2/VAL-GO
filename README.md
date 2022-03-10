@@ -12,3 +12,6 @@ Download and Extract .zip
 Install Shortcut with Custom Parameters: "C:\Program Files (x86)\Steam\steam.exe" -applaunch 730 -game VALORANT/csgo
 Optional: Change Launch Options by Adding -insecure for VAC FLAG prevention
 Flagging is different from a VAC Ban
+
+
+Download Link: https://drive.google.com/file/d/1eP2eiMoKs8dxhulHr7zY2Qb1DTlBV_FG/view?usp=sharing
