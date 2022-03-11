@@ -14,4 +14,4 @@ Optional: Change Launch Options by Adding -insecure for VAC FLAG prevention
 Flagging is different from a VAC Ban
 
 
-Download Link: https://drive.google.com/file/d/1eP2eiMoKs8dxhulHr7zY2Qb1DTlBV_FG/view?usp=sharing
+Download Link: https://www.mediafire.com/file/jy1ol8yqyssql30/val-go.zip/file
